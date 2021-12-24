@@ -21,6 +21,10 @@ Team player. Always guided by the values of the team. I’m able to work on assi
 ### Technologies
 > HTML5, CSS, CMS Wordpress, Python(Django).
 
+### Experiance
+* I did a test task on feedback [Node.js](https://github.com/NMBR78/feedback).
+* Currently working [rsschool](https://github.com/NMBR78/rsschool-cv-1).
+
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 Примеры кода
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
