@@ -16,6 +16,7 @@ During my professional growth I would like to receive higher compensation of my 
 money).
 
 Team player. Always guided by the values of the team. I’m able to work on assigned task efficiently in different circumstances.
+
 ---
 ### Technologies
 > HTML5, CSS, CMS Wordpress, Python(Django).
