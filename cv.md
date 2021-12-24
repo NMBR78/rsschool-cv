@@ -32,13 +32,19 @@ Team player. Always guided by the values of the team. I’m able to work on assi
 
 ### Education
 > **Belarusian State University of Informatics and Radioelectronics.**
+>
 > - Master’s degree 2017-2018
+>
 > Faculty of Computer Design. ngineering Psychology and Ergonomics.
 >> **Belarusian State University of Informatics and Radioelectronics.**
+>>
 >> - Engineer’s degree 2011-2016
+>>
 >>Faculty of Computer Design. Structural Engineer. Electronic Security Systems.
->>>Courses and Training [centercomfort.by](http://centercomfort.by). 
+>>>Courses and Training [centercomfort.by](http://centercomfort.by).
+>>>
 >>> - 2009-2014
+>>>
 >>>Soft Skills & Hard Skills: Conflict management. Conduct negotiations. Teamwork
 
 
