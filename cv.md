@@ -1,12 +1,12 @@
 # Aleksey Tsepkov
 ---
 ### Contacts
-> phone: +37529 844 42 49
-> email: alekseytsepkov@gmail.com
-> telegram: @tsepkadze
-> RS-SCHOOL (discord): Aleksey Tsepkov (@NMBR78)
-> Discord: NMBR78#7334
-> GitHub: https://github.com/NMBR78
+>phone: +37529 844 42 49
+>email: alekseytsepkov@gmail.com
+>telegram: @tsepkadze
+>RS-SCHOOL (discord): Aleksey Tsepkov (@NMBR78)
+>Discord: NMBR78#7334
+>GitHub: https://github.com/NMBR78
 
 Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
