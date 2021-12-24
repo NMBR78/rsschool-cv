@@ -34,6 +34,12 @@ Team player. Always guided by the values of the team. I’m able to work on assi
 > **Belarusian State University of Informatics and Radioelectronics.**
 >
 > Faculty of Computer Design. ngineering Psychology and Ergonomics.
+>> **Belarusian State University of Informatics and Radioelectronics.**
+>>
+>>Faculty of Computer Design. Structural Engineer. Electronic Security Systems.
+
+
+
 
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 Примеры кода
