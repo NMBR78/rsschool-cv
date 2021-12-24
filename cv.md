@@ -16,8 +16,10 @@ During my professional growth I would like to receive higher compensation of my 
 money).
 
 Team player. Always guided by the values of the team. I’m able to work on assigned task efficiently in different circumstances.
+---
+### Technologies
+> HTML5, CSS, CMS Wordpress, Python(Django).
 
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 Примеры кода
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
