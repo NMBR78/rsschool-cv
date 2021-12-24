@@ -32,8 +32,8 @@ Team player. Always guided by the values of the team. I’m able to work on assi
 
 ### Education
 > **Belarusian State University of Informatics and Radioelectronics.**
-Faculty of Computer Design
->Engineering Psychology and Ergonomics.
+>
+> Faculty of Computer Design. ngineering Psychology and Ergonomics.
 
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 Примеры кода
