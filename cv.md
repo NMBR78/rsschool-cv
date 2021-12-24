@@ -30,6 +30,11 @@ Team player. Always guided by the values of the team. I’m able to work on assi
 * Russian native
 * Bilgaruan A2
 
+### Education
+> **Belarusian State University of Informatics and Radioelectronics.**
+Faculty of Computer Design
+>Engineering Psychology and Ergonomics.
+
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 Примеры кода
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
