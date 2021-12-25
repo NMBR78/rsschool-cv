@@ -13,6 +13,17 @@ body {
     width:100%; 
    }
 
+.container img {
+    border-radius: 50%;
+    margin: 2em auto;
+    margin-left: 50px;
+    height: 150px;                  /* as per requirement */
+    min-height: 150px;              /* for shorter than 150px pics */
+    min-width: inherit;             /* for smaller than 250px pics */
+    overflow: hidden 
+    }  
+
+
 body {
     margin: 0;
   }
@@ -48,7 +59,7 @@ ul  {
     display: flex;
     flex-direction: row;
     background:rgba(0, 0, 0, 0);
-    height: 900px;
+    height: 100%;
     width: 100%;
   }
   .container .side_left {
